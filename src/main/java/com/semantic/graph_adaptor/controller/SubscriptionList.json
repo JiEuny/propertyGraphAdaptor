@@ -10,7 +10,7 @@
     "notification": {
       "format": "normalized",
       "endpoint": {
-        "uri": "http://localhost:8082/notify",
+        "uri": "http://localhost:8081/notify",
         "accept": "application/json"
       }
     }

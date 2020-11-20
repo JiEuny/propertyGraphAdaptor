@@ -48,8 +48,8 @@
 
         <dependency>
             <groupId>com.arangodb</groupId>
-            <artifactId>arangodb-spring-data</artifactId>
-            <version>3.2.1</version>
+            <artifactId>arangodb-java-driver</artifactId>
+            <version>4.2.2</version>
         </dependency>
     </dependencies>
 
